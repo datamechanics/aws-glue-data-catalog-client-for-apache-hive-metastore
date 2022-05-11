@@ -1,3 +1,7 @@
+## Motivation
+Manage AWS Glue on Spark 3.x with hive 2.3.x
+This repo is a fork from awslabs and adaptation for hive2.3/spark3 from viaduct-ai commits.
+
 ## AWS Glue Data Catalog Client for Apache Hive Metastore
 The AWS Glue Data Catalog is a fully managed, Apache Hive Metastore compatible, metadata repository. Customers can use the Data Catalog as a central repository to store structural and operational metadata for their data.
 
